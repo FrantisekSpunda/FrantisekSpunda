@@ -3,3 +3,4 @@ Hi, my name is František Špunda. I live in Czech Republic. I'm interested in w
 > ✨ Skills: JAVASCRIPT (ES6) / HTML5 / CSS3 / PHP / SQL / GIT <br>
 > 👀 Currently lerning: django, python, vue.js <br>
 > ✉ email: [spundafr@gmail.com](mailto:spundafr@gmail.com) <br>
+> 📦 Packages: npm / pip
