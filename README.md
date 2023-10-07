@@ -5,7 +5,7 @@ I also know C (and little bit in C++). I've worked with STM8 and ESP32. I like t
 
 Currently I work for Navmatix s.r.o, where I'm working in team on some React app. I'm also studiing IT on VUT in Brno.
 
-| fes | Skills |
+| Subject | Skills |
 | - | - |
 | FE | Typescript❤️, React, Next.js, Tailwind❤️, Styled components😒, PWA, Sass and a lot of libraries |
 | BE | Laravel❤️, Django, REST |
