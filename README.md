@@ -10,5 +10,6 @@ Currently I work for Navmatix s.r.o, where I'm working in team on some React app
 | FE | Typescript❤️, React, Next.js, Tailwind❤️, Styled components😒, PWA, Sass and a lot of libraries |
 | BE | Laravel❤️, Django, REST |
 | Other | Git, Github, Azure, Gitlab, Jira, Trello, C, Makefile, etc. |
+
 I can't name all libraries and languages, bcs I have memory like goldfish and I can't remember what I can actualy do🐱
 > 📧 email: [spundafr@gmail.com](mailto:spundafr@gmail.com) <br>
