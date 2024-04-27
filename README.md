@@ -11,4 +11,4 @@ I'm also skilled in C and C++. I've worked with microprocessors like STM8 and ES
 
 Can't name all libraries and languages, bcs I have memory like goldfish 🐟
 > 📧 email: [spundafr@gmail.com](mailto:spundafr@gmail.com) <br>
-> 🙎‍♂️linkedin: [František Špunda 🤌](linkedin.com/in/františek-špunda-59774627a)
+> 🙎‍♂️linkedin: [František Špunda 🤌](https://linkedin.com/in/františek-špunda-59774627a)
